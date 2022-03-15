@@ -6,7 +6,7 @@
 
 #### Gif de como deixei quando estava tentando por um pop up:
 
-![gif_cloneNetflix](https://github.com/leandrucarvalho/Recriando-Interface-Netflix/issues/1#issue-1169042119)
+![clone_netflix](https://user-images.githubusercontent.com/56963289/158281501-d8e0c611-087b-4147-ae2e-295141079a0d.gif)
 
 #### Gif sem o pop up:
 
