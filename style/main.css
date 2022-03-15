@@ -103,8 +103,8 @@ header nav a:hover{
 
 /* pop up assistir agora */
 
- .popup-overlay {
-    /*Hides pop-up when there is no "active" class*/
+/*  .popup-overlay {
+    /*Hides pop-up when there is no "active" class
     visibility: hidden;
     position: absolute;
     background: #ffffff;
@@ -113,23 +113,23 @@ header nav a:hover{
     height: 50%;
     left: 25%;
   }
-  
- .popup-overlay.active {
-    /*displays pop-up when "active" class is present*/
+   */
+/*  .popup-overlay.active {
+    /*displays pop-up when "active" class is present
     visibility: visible;
     text-align: center;
     position: absolute;
-  }
+  } */
   
-  .popup-content {
-    /*Hides pop-up content when there is no "active" class */
+/*   .popup-content {
+    /*Hides pop-up content when there is no "active" class 
     visibility: hidden;
   }
-  
-  .popup-content.active {
-    /*Shows pop-up content when "active" class is present */
+   */
+/*   .popup-content.active {
+    /*Shows pop-up content when "active" class is present 
     visibility: visible;
-  }
+  } */
   
  /* .botoes button {
     display: inline-block;
